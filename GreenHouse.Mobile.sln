@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenHouse.Mobile.iOS", "Gr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenHouse.Mobile", "GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile.csproj", "{66141B10-0277-43E9-90E6-051DE4A56C8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenHouse.Mobile.Core", "GreenHouse.Mobile.Core\GreenHouse.Mobile.Core.csproj", "{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,18 @@ Global
 		{66141B10-0277-43E9-90E6-051DE4A56C8A}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{66141B10-0277-43E9-90E6-051DE4A56C8A}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{66141B10-0277-43E9-90E6-051DE4A56C8A}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Release|iPhone.Build.0 = Release|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{FEF3CB73-4251-4D1F-A20A-5E953F4A3845}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

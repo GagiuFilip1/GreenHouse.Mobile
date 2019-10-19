@@ -1,13 +1,12 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj",
+    "projectUniqueName": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj",
     "projectName": "GreenHouse.Mobile",
-    "projectPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj",
-    "outputPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\obj\\",
+    "projectPath": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj",
+    "outputPath": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Microsoft\\Xamarin\\NuGet",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
@@ -47,12 +46,7 @@
         }
       },
       "imports": [
-        "net461",
-        "net462",
-        "net47",
-        "net471",
-        "net472",
-        "net48"
+        "net461"
       ],
       "assetTargetFallback": true,
       "warn": true

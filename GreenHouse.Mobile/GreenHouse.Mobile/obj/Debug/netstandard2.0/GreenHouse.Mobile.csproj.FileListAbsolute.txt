@@ -24,3 +24,17 @@ C:\Users\Mihai\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.M
 C:\Users\Mihai\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\GreenHouse.Mobile.dll
 C:\Users\Mihai\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\ref\GreenHouse.Mobile.dll
 C:\Users\Mihai\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\GreenHouse.Mobile.pdb
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\bin\Debug\netstandard2.0\GreenHouse.Mobile.deps.json
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\bin\Debug\netstandard2.0\GreenHouse.Mobile.dll
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\bin\Debug\netstandard2.0\ref\GreenHouse.Mobile.dll
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\bin\Debug\netstandard2.0\GreenHouse.Mobile.pdb
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\GreenHouse.Mobile.csprojAssemblyReference.cache
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\GreenHouse.Mobile.csproj.CoreCompileInputs.cache
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\GreenHouse.Mobile.AssemblyInfoInputs.cache
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\GreenHouse.Mobile.AssemblyInfo.cs
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\GreenHouse.Mobile.dll
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\ref\GreenHouse.Mobile.dll
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\GreenHouse.Mobile.pdb
