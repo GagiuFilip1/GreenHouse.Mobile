@@ -1,4 +1,4 @@
-namespace GreenHouse.Core.Enums
+namespace GreenHouse.Mobile.Core.Enums
 {
     public enum ForestState
     {

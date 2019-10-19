@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj": {}
+    "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj": {
+    "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj",
         "projectName": "GreenHouse.Mobile.Core",
-        "projectPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj",
-        "packagesPath": "C:\\Users\\Mihai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\obj\\",
+        "projectPath": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj",
+        "packagesPath": "C:\\Users\\Gagiu Filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Gagiu Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -51,35 +49,39 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
           "warn": true
         }
       }
     },
-    "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj": {
+    "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Infrastructure\\GreenHouse.Mobile.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj",
+        "projectUniqueName": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Infrastructure\\GreenHouse.Mobile.Infrastructure.csproj",
+        "projectName": "GreenHouse.Mobile.Infrastructure",
+        "projectPath": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Infrastructure\\GreenHouse.Mobile.Infrastructure.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj",
         "projectName": "GreenHouse.Mobile",
-        "projectPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj",
-        "packagesPath": "C:\\Users\\Mihai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\obj\\",
+        "projectPath": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.csproj",
+        "packagesPath": "C:\\Users\\Gagiu Filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Gagiu Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -91,8 +93,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj": {
-                "projectPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj"
+              "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj": {
+                "projectPath": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj"
+              },
+              "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Infrastructure\\GreenHouse.Mobile.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Gagiu Filip\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Infrastructure\\GreenHouse.Mobile.Infrastructure.csproj"
               }
             }
           }
@@ -106,6 +111,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "GraphQL.Client": {
+              "target": "Package",
+              "version": "[2.0.0-alpha.3, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -122,12 +131,7 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
           "warn": true

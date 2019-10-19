@@ -35,9 +35,9 @@
     
                 </Grid.RowDefinitions>
                 <Image Source="Samir.png" HeightRequest="70" VerticalOptions="EndAndExpand"/>
-                <Entry Grid.Row="1" Placeholder="Email or Phone Number" PlaceholderColor="#bababa" FontSize="16"/>
-                <Entry Grid.Row="2" Placeholder="Password" PlaceholderColor="#bababa" FontSize="16"/>
-                <Button x:Name="BtnSignup" Text="LogIn" BackgroundColor="Transparent" TextColor="Gray" HeightRequest="50" VerticalOptions="Start" Grid.Row="3" Clicked="SigninProcedure"/>
+                <Entry x:Name="Email" Grid.Row="1" Placeholder="Email or Phone Number" PlaceholderColor="#bababa" FontSize="16"/>
+                <Entry x:Name="Password" Grid.Row="2" Placeholder="Password" PlaceholderColor="#bababa" FontSize="16"/>
+                <Button x:Name="BtnSignup" Text="LogIn" BackgroundColor="Transparent" TextColor="Gray" HeightRequest="50" VerticalOptions="Start" Grid.Row="3"/>
 
 
                 

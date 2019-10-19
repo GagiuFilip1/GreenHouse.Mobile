@@ -40,3 +40,9 @@ C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenH
 C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\GreenHouse.Mobile.pdb
 C:\Users\Mihai\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 C:\Users\Mihai\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\Views\FriendsPage.xaml.g.cs
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\Views\MainnPage.xaml.g.cs
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\Views\ReportsPage.xaml.g.cs
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\Views\SchedulePage.xaml.g.cs
+C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile\GreenHouse.Mobile\GreenHouse.Mobile\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs

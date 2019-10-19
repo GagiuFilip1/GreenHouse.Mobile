@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
-using GreenHouse.Core.Enums;
-using GreenHouse.Core.Tools;
+using GreenHouse.Mobile.Core.Enums;
+using GreenHouse.Mobile.Core.Tools;
 
-namespace GreenHouse.Core.Models
+namespace GreenHouse.Mobile.Core.Models
 {
     public class Report : IIdentifier
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace GreenHouse.Core.Tools
+namespace GreenHouse.Mobile.Core.Tools
 {
     public interface IIdentifier
     {

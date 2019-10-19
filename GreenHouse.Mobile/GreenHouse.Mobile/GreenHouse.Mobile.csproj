@@ -6,11 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="GraphQL.Client" Version="2.0.0-alpha.3" />
     <PackageReference Include="Xamarin.Forms" Version="4.2.0.709249" />
     <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\GreenHouse.Mobile.Core\GreenHouse.Mobile.Core.csproj" />
+    <ProjectReference Include="..\..\GreenHouse.Mobile.Infrastructure\GreenHouse.Mobile.Infrastructure.csproj" />
   </ItemGroup>
 </Project>

@@ -1,7 +1,7 @@
 using System;
-using GreenHouse.Core.Tools;
+using GreenHouse.Mobile.Core.Tools;
 
-namespace GreenHouse.Core.Models
+namespace GreenHouse.Mobile.Core.Models
 {
     public class UserFriend : IIdentifier
     {
