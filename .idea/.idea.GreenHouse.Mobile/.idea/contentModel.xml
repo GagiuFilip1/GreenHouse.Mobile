@@ -23,6 +23,8 @@
         <e p="Views" t="Include">
           <e p="LoginPage.xaml" t="Include" />
           <e p="LoginPage.xaml.cs" t="Include" />
+          <e p="MainnPage.xaml" t="Include" />
+          <e p="MainnPage.xaml.cs" t="Include" />
           <e p="SignupPage.xaml" t="Include" />
           <e p="SignupPage.xaml.cs" t="Include" />
         </e>

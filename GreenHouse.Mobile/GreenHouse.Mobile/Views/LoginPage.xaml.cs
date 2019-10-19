@@ -19,7 +19,7 @@ namespace GreenHouse.Mobile.Views
         
         void SigninProcedure(object sender, EventArgs e)
         {
-            Application.Current.MainPage = new MainPage ();
+            Application.Current.MainPage = new MainnPage ();
         }
 
         void SignupProcedure(object sender, EventArgs e)
