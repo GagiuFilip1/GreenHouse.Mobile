@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Gagiu Filip\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Gagiu Filip\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GreenHouse.Mobile.138808405.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Gagiu Filip\Documents\GitHub\GreenHouse.Mobile" t="IncludeFlat">
+    <e p="C:\Program Files (x86)\Android\android-sdk\platforms\android-28\data\res" t="IncludeRecursive" />
+    <e p="C:\Users\Mihai\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Mihai\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GreenHouse.Mobile.-1285271414.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Mihai\Documents\GitHub\GreenHouse.Mobile" t="IncludeFlat">
       <e p="GreenHouse.Mobile\GreenHouse.Mobile" t="IncludeRecursive">
         <e p="App.xaml" t="Include" />
         <e p="App.xaml.cs" t="Include" />
@@ -19,13 +20,21 @@
             </e>
           </e>
         </e>
+        <e p="Views" t="Include">
+          <e p="LoginPage.xaml" t="Include" />
+          <e p="LoginPage.xaml.cs" t="Include" />
+          <e p="SignupPage.xaml" t="Include" />
+          <e p="SignupPage.xaml.cs" t="Include" />
+        </e>
       </e>
       <e p="GreenHouse.Mobile\GreenHouse.Mobile.Android" t="IncludeRecursive">
         <e p="Assets" t="Include">
           <e p="AboutAssets.txt" t="Include" />
         </e>
+        <e p="bin" t="ExcludeRecursive" />
         <e p="GreenHouse.Mobile.Android.csproj" t="IncludeRecursive" />
         <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
         <e p="Properties" t="Include">
           <e p="AndroidManifest.xml" t="Include" />
           <e p="AssemblyInfo.cs" t="Include" />
@@ -88,10 +97,12 @@
             <e p="Icon87.png" t="Include" />
           </e>
         </e>
+        <e p="bin" t="ExcludeRecursive" />
         <e p="Entitlements.plist" t="Include" />
         <e p="GreenHouse.Mobile.iOS.csproj" t="IncludeRecursive" />
         <e p="Info.plist" t="Include" />
         <e p="Main.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
