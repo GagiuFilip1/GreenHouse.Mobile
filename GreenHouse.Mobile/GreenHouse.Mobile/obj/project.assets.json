@@ -63,6 +63,16 @@
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
         }
+      },
+      "GreenHouse.Mobile.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GreenHouse.Mobile.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GreenHouse.Mobile.Core.dll": {}
+        }
       }
     }
   },
@@ -545,10 +555,16 @@
         "xamarin.forms.4.2.0.709249.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "GreenHouse.Mobile.Core/1.0.0": {
+      "type": "project",
+      "path": "../../GreenHouse.Mobile.Core/GreenHouse.Mobile.Core.csproj",
+      "msbuildProject": "../../GreenHouse.Mobile.Core/GreenHouse.Mobile.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "GreenHouse.Mobile.Core >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "Xamarin.Essentials >= 1.2.0",
       "Xamarin.Forms >= 4.2.0.709249"
@@ -586,7 +602,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj": {
+              "projectPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

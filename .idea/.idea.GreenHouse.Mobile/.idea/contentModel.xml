@@ -21,10 +21,16 @@
           </e>
         </e>
         <e p="Views" t="Include">
+          <e p="FriendsPage.xaml" t="Include" />
+          <e p="FriendsPage.xaml.cs" t="Include" />
           <e p="LoginPage.xaml" t="Include" />
           <e p="LoginPage.xaml.cs" t="Include" />
           <e p="MainnPage.xaml" t="Include" />
           <e p="MainnPage.xaml.cs" t="Include" />
+          <e p="ReportsPage.xaml" t="Include" />
+          <e p="ReportsPage.xaml.cs" t="Include" />
+          <e p="SchedulePage.xaml" t="Include" />
+          <e p="SchedulePage.xaml.cs" t="Include" />
           <e p="SignupPage.xaml" t="Include" />
           <e p="SignupPage.xaml.cs" t="Include" />
         </e>
@@ -121,6 +127,9 @@
           <e p="OrderDirection.cs" t="Include" />
         </e>
         <e p="GreenHouse.Mobile.Core.csproj" t="IncludeRecursive" />
+        <e p="MenuItems" t="Include">
+          <e p="MasterPageItem.cs" t="Include" />
+        </e>
         <e p="Models" t="Include">
           <e p="Account.cs" t="Include" />
           <e p="Contributor.cs" t="Include" />
@@ -130,7 +139,7 @@
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
+            <e p="netstandard2.0" t="Include">
               <e p="GreenHouse.Mobile.Core.AssemblyInfo.cs" t="Include" />
             </e>
           </e>

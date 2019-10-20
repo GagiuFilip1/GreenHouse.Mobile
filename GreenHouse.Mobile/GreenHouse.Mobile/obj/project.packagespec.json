@@ -19,7 +19,11 @@
     },
     "frameworks": {
       "netstandard2.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj": {
+            "projectPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

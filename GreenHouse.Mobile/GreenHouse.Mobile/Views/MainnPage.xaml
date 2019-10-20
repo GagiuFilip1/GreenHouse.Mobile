@@ -5,24 +5,62 @@
              x:Class="GreenHouse.Mobile.Views.MainnPage">
 
     <MasterDetailPage.Master>
-        <ContentPage Padding="10" BackgroundColor = "Gray" Title="Master">
-            <ContentPage.Content>
-                <StackLayout Margin="5,30,5,5">
-                    <Label Text="Master Page">
-                    </Label>
-                </StackLayout>
-            </ContentPage.Content>
+        <ContentPage Title="Menu"
+                 BackgroundColor="#e8e8e8">
+
+            <StackLayout Orientation="Vertical">
+
+                <!-- 
+             This StackLayout you can use for other
+             data that you want to have in your menu drawer
+        -->
+                <StackLayout.Children >
+                    <Label Text="{Binding Header}" />
+
+                    <Image Source="{Binding Image}" Aspect="Fill" />
+
+                    <Label Text="{Binding Footer}" />
+                </StackLayout.Children>
+
+                <ListView x:Name="navigationDrawerList"
+                  RowHeight="55"
+                  SeparatorVisibility="Default"
+                  BackgroundColor="#e8e8e8"
+                  ItemSelected="OnMenuItemSelected">
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+
+                                <!-- Main design for our menu items -->
+                                <StackLayout VerticalOptions="FillAndExpand"
+                             Orientation="Horizontal"
+                             Padding="20,10,0,10"
+                             Spacing="20">
+
+                                    <Image Source="{Binding Icon}"
+                         WidthRequest="40"
+                         HeightRequest="40"
+                         VerticalOptions="Start" />
+
+                                    <Label Text="{Binding Title}"
+                         FontSize="Small"
+                         VerticalOptions="End"
+                         TextColor="Black"/>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+            </StackLayout>
+
         </ContentPage>
     </MasterDetailPage.Master>
-    
+
     <MasterDetailPage.Detail>
-        <ContentPage Padding="10">
-            <ContentPage.Content>
-                <StackLayout Margin="5,30,5,5">
-                    <Label Text="Detail Page">
-                    </Label>
-                </StackLayout>
-            </ContentPage.Content>
-        </ContentPage>
+        <NavigationPage>
+
+        </NavigationPage>
     </MasterDetailPage.Detail>
 </MasterDetailPage>

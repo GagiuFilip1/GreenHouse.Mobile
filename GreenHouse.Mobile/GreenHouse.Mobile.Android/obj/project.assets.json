@@ -804,6 +804,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "GreenHouse.Mobile.Core": "1.0.0",
           "Xamarin.Essentials": "1.2.0",
           "Xamarin.Forms": "4.2.0.709249"
         },
@@ -812,6 +813,16 @@
         },
         "runtime": {
           "bin/placeholder/GreenHouse.Mobile.dll": {}
+        }
+      },
+      "GreenHouse.Mobile.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GreenHouse.Mobile.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GreenHouse.Mobile.Core.dll": {}
         }
       }
     }
@@ -1900,6 +1911,11 @@
       "type": "project",
       "path": "../GreenHouse.Mobile/GreenHouse.Mobile.csproj",
       "msbuildProject": "../GreenHouse.Mobile/GreenHouse.Mobile.csproj"
+    },
+    "GreenHouse.Mobile.Core/1.0.0": {
+      "type": "project",
+      "path": "../../GreenHouse.Mobile.Core/GreenHouse.Mobile.Core.csproj",
+      "msbuildProject": "../../GreenHouse.Mobile.Core/GreenHouse.Mobile.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {

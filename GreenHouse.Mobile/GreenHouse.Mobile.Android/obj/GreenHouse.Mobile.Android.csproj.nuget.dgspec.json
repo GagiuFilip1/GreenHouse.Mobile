@@ -4,6 +4,65 @@
     "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.Android\\GreenHouse.Mobile.Android.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj",
+        "projectName": "GreenHouse.Mobile.Core",
+        "projectPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj",
+        "packagesPath": "C:\\Users\\Mihai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile\\GreenHouse.Mobile.Android\\GreenHouse.Mobile.Android.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -85,7 +144,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj": {
+                "projectPath": "C:\\Users\\Mihai\\Documents\\GitHub\\GreenHouse.Mobile\\GreenHouse.Mobile.Core\\GreenHouse.Mobile.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
